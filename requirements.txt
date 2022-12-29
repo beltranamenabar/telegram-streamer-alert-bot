@@ -1,4 +1,4 @@
-python-telegram-bot==20.0a6
+python-telegram-bot[job-queue]==20.0a6
 sqlalchemy[asyncio]==2.0.0rc1
 twitchAPI==3.0.1
 aiosqlite==0.17.0
